@@ -1,0 +1,12 @@
+CLOUD COMPUTING
+
+> refers to network or the internet
+> uses remote servers on the internet to store,manage and access data online rather than local drives
+> operations performed using cloud computing are:
+   - Developing new applications and services
+   - Storage, back up, and recovery of data
+   - Hosting blogs and websites
+   - Delivery of software on demand
+   - Analysis of data
+   - Streaming videos and audios
+
