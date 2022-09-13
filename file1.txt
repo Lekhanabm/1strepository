@@ -8,5 +8,6 @@ CLOUD COMPUTING
    - Hosting blogs and websites
    - Delivery of software on demand
 CLOUD CLOUD CLOUD CLOUD CLOUD
+CLOUD
    
 
